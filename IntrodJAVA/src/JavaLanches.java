@@ -4,7 +4,7 @@ public class JavaLanches {
     static void main() {
         System.out.println("---------------------------------------");
         System.out.println("");
-        System.out.println("Bem vindo à lanchonete do Javas!");
+        System.out.println("Bem-vindo à lanchonete do Javas!");
         System.out.println("Por gentileza, faça um pedido. Tecla a opção que desejar do cardápio.");
         System.out.println("------------------------------------------");
         System.out.println("101 - Cachorro quente R$10,00");

@@ -4,8 +4,7 @@ public class Contaluz {
     static void main() {
 
         System.out.println("-------------------------------");
-        Scanner dados = new Scanner(System.in);
-        System.out.println("Digite o seu nome: ");
+        Scanner dados = new Scanner(System.in); System.out.println("Digite o seu nome: ");
         String name = dados.nextLine();
         System.out.println("Informa o consumo do mês anterior ");
         float ConsAnterior = dados.nextFloat();
@@ -41,3 +40,4 @@ public class Contaluz {
         System.out.println(name+", o seu consumo foi de "+Month+" kWh. Com um valor total R$ "+bruto);
     }
 }
+
