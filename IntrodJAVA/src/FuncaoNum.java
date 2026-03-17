@@ -20,10 +20,10 @@ public class FuncaoNum {
         }
         System.out.println("-------------------------------------");
         if (num % 2 == 0){
-            System.out.println(num+"   O número é par");
+            System.out.println(num+"  -- número é par");
         }
         else {
-            System.out.println(num+"   O número é ímpar");
+            System.out.println(num+"  -- número é ímpar");
         }
     }
 }
