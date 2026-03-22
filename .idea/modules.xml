@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstrutRepet/EstrutRepet.iml" filepath="$PROJECT_DIR$/EstrutRepet/EstrutRepet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntrodJAVA/IntrodJAVA.iml" filepath="$PROJECT_DIR$/IntrodJAVA/IntrodJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaProblemasADS/ListaProblemasADS.iml" filepath="$PROJECT_DIR$/ListaProblemasADS/ListaProblemasADS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lingprog-2026.iml" filepath="$PROJECT_DIR$/.idea/lingprog-2026.iml" />
+    </modules>
+  </component>
+</project>
