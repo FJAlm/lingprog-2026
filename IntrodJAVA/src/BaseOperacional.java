@@ -1,4 +1,6 @@
-public Class BaseOperacional;
+import java.util.Scanner;
+
+public class BaseOperacional {
 
 void main() {
     System.out.println("Escolha 4 números para que faça as operações disponíveis");
@@ -51,4 +53,5 @@ void main() {
     }
     System.out.println("====================================");
     System.out.println("O resultado da operação é de: "+result);
+    }
 }

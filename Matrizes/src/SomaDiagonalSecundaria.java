@@ -13,7 +13,7 @@ public class SomaDiagonalSecundaria {
         int n = tam.nextInt();
         int mat[][] = new int[n][n];
 
-        System.out.println("O valor da matriz seleciona foi "+n+"X"+n);
+        System.out.println("O valor da matriz selecionada foi "+n+"X"+n);
         System.out.println();
 
         for(int i=0; i < mat.length; i++){
